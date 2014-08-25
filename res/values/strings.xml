@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dick\'s Drive-In</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_map">Map</string>
+    <string name="action_food">Food</string>
+    <string name="app_title">Dick\'s Locations</string>
+    <string name="app_icon">Dick\'s Drive-In</string>
+    <string name="picture">This is an image!</string>
+    <string name="edittext_food_title_hint">Enter Food</string>
+    <string name="edittext_food_desc_hint">Enter Price</string>
+    <string name="food_item_title">Food</string>
+    <string name="food_item_name">Name</string>
+    <string name="food_item_desc">Price</string>
+    <string name="menu_new_food">Add</string>
+    <string name="delete_food">Delete</string>
+    <string name="camera_snap">Take Photo</string>
+    <string name="picture_desc">picture</string>
+
+</resources>
